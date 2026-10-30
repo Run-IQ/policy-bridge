@@ -27,10 +27,10 @@
     "@run-iq/dg": "^0.1.0"
   },
   "devDependencies": {
-    "@run-iq/policy-dsl": "file:../policy-dsl",
-    "@run-iq/policy-graph": "file:../policy-graph",
-    "@run-iq/context-engine": "file:../context-engine",
-    "@run-iq/dg": "file:../decision-graph",
+    "@run-iq/policy-dsl": "^0.1.0",
+    "@run-iq/policy-graph": "^0.1.0",
+    "@run-iq/context-engine": "^0.2.1",
+    "@run-iq/dg": "^0.1.2",
     "@types/node": "^20.11.0",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^7.0.0",
