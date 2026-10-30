@@ -45,7 +45,7 @@
   "homepage": "https://github.com/Run-IQ/policy-bridge#readme",
   "bugs": { "url": "https://github.com/Run-IQ/policy-bridge/issues" },
   "author": "Abdou-Raouf ATARMLA <achilleatarmla@gmail.com>",
-  "license": "BSL-1.1",
+  "license": "BUSL-1.1",
   "publishConfig": { "registry": "https://npm.pkg.github.com" },
   "engines": { "node": ">=20.0.0" }
 }
